@@ -12,5 +12,6 @@ Projet généré avec Angular CLI version 1.5.4.
 ## Informations
 
 - Nouveau module : material.module.ts
-- Ajout d'un lien dans styles.css et styles personnalisés dans app.component.css
+- Ajout d'un lien dans styles.css
+- Styles personnalisés dans app.component.css
 
