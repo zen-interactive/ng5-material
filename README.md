@@ -11,7 +11,12 @@ Projet généré avec Angular CLI version 1.5.4.
 
 ## Informations
 
-- Nouveau module : material.module.ts
+- Nouveau module dans app.module.ts :
+   - BrowserAnimationsModule
+   - MaterialModule
 - Ajout d'un lien dans styles.css
 - Styles personnalisés dans app.component.css
 
+- URLS :
+   - https://material.angular.io/guide/getting-started
+   - https://material.angular.io
