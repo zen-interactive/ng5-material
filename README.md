@@ -19,5 +19,5 @@ Projet généré avec Angular CLI version 1.5.4.
 - Import de hammer.js dans main.ts
 - Ajout d'une font icon material dans index.html
 
-- URLS :
+- URL :
    - https://material.angular.io/guide/getting-started
