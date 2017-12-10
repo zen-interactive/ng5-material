@@ -16,7 +16,8 @@ Projet généré avec Angular CLI version 1.5.4.
    - MaterialModule
 - Ajout d'un lien dans styles.css
 - Styles personnalisés dans app.component.css
+- Import de hammer.js dans main.ts
+- Ajout d'une font icon material dans index.html
 
 - URLS :
    - https://material.angular.io/guide/getting-started
-   - https://material.angular.io
